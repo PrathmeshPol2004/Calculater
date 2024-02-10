@@ -24,7 +24,3 @@ You can try out the calculator live [here](https://prathmeshpol2004.github.io/Ca
 
 ![Calculator Screenshot](img.png)
 
-## Installation
-
-To run this calculator locally, simply clone the repository:
-
