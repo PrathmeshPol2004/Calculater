@@ -22,7 +22,7 @@ You can try out the calculator live [here](https://prathmeshpol2004.github.io/Ca
 
 ## Screenshots
 
-![Calculator Screenshot](screenshots/calculator.png)
+![Calculator Screenshot](img.png)
 
 ## Installation
 
