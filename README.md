@@ -1,4 +1,4 @@
-# Calculater
+
 # Web Calculator
 
 This is a simple web calculator project built using HTML, CSS, and JavaScript.
